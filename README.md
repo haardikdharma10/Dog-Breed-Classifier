@@ -3,13 +3,14 @@
 <div align= "center">
 <h4>A pre trained image classifier that identifies dog breeds and compares the performance of 3 different CNN model architectures ('vgg', 'alexnet', and 'resnet') to determine which one provides the best result.</h4>
 </div>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/haardikdharma10/Dog-Breed-Classifier/issues)
 [![Forks](https://img.shields.io/github/forks/haardikdharma10/Dog-Breed-Classifier.svg?logo=github)](https://github.com/haardikdharma10/Dog-Breed-Classifier/network/members)
 [![Stargazers](https://img.shields.io/github/stars/haardikdharma10/Dog-Breed-Classifier.svg?logo=github)](https://github.com/haardikdharma10/Dog-Breed-Classifier/stargazers)
 [![Issues](https://img.shields.io/github/issues/haardikdharma10/Dog-Breed-Classifier.svg?logo=github)](https://github.com/haardikdharma10/Dog-Breed-Classifier/issues)
 [![MIT License](https://img.shields.io/github/license/haardikdharma10/Dog-Breed-Classifier.svg?style=flat-square)](https://github.com/haardikdharma10/Dog-Breed-Classifier/blob/master/LICENSE)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Models used
 - [VGG](https://arxiv.org/abs/1409.1556)
